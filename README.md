@@ -1,6 +1,6 @@
 # calculo_combustivel
 
-App para verificar combustivel
+App para verificar combustivel.
 
 ## Getting Started
 

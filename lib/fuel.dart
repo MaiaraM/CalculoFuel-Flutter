@@ -89,7 +89,7 @@ class _FuelState extends State<Fuel> {
                       fontWeight: FontWeight.bold
                   ),
                 ),
-              )
+              ),
             ],
           ),
         ),
